@@ -8,7 +8,7 @@ const VideoBackgroundSection: React.FC = () => {
         position: 'relative',
         width: '100%',
         height: '250px', // 🔥 Altura fija
-        backgroundImage: 'url(/src/assets/images/logocompletonegro.png)', // 🔥 Imagen de fondo
+        backgroundImage: 'url(/images/logocompletonegro.png)', // 🔥 Imagen de fondo
         backgroundSize: '600px', // 🔥 Ajusta el tamaño de la imagen
         backgroundRepeat: 'no-repeat',
         backgroundPosition: 'center',
